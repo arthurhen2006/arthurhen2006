@@ -19,13 +19,6 @@ Me chamo Arthur Henrique, tenho 19 anos e sou natural de Lins, São Paulo. Concl
             src="https://custom-icon-badges.demolab.com/github/followers/arthurhen2006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/arthur-henrique-de-oliveira-souza-72519a386/">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/arthurhen2006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 
 </p>
 
