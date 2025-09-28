@@ -82,3 +82,6 @@ Me chamo Arthur Henrique, tenho 19 anos e sou natural de Lins, São Paulo. Concl
   />
 
 </p>
+
+<p>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)</p>
