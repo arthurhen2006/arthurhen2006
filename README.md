@@ -65,5 +65,5 @@ Me chamo Arthur Henrique, tenho 19 anos e sou natural de Lins, São Paulo. Concl
 
 ### 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurhen2006&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurhen2006&show_icons=true&theme=onedark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhen2006&layout=compact&theme=onedark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
