@@ -2,7 +2,7 @@
 
 **`Estudante do Centro Universitário de Lins`**
 
-Me chamo Arthur Henrique, tenho 19 anos e sou natural de Lins, São Paulo. Concluí o ensino médio no Colégio Preve Objetivo. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Lins (UNILINS).
+Me chamo Arthur Henrique, tenho 20 anos e sou natural de Lins, São Paulo. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Lins (UNILINS).
 
 <p>
     <a href="https://github.com/arthurhen2006?tab=repositories&sort=stargazers">
